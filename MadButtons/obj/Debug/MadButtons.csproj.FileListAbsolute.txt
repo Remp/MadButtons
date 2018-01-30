@@ -1,0 +1,12 @@
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\MadButtons\MadButtons\bin\Debug\MadButtons.exe.config
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.Properties.Resources.resources
+C:\Users\Кирилл\Documents\Visual Studio 2015\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.csproj.GenerateResource.Cache
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.csprojResolveAssemblyReference.cache
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.Properties.Resources.resources
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.csproj.GenerateResource.Cache
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\bin\Debug\MadButtons.exe.config
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\bin\Debug\MadButtons.exe
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\bin\Debug\MadButtons.pdb
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.exe
+E:\VisualStudio\Projects\1_Courses\MadButtons\MadButtons\obj\Debug\MadButtons.pdb
